@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f154440-d7cf-43dc-b6ba-26aecfa5ab5a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Execise-01/Calculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/Absolute-Number-Calculator/Absolute-Number-Calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/Absolute-Number-Calculator/Absolute-Number-Calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/Calculator/Calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/Calculator/Calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/FizzBuzz/FizzBuzz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/FizzBuzz/FizzBuzz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/FizzBuzz/Test/FizzBuzzTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/FizzBuzz/Test/FizzBuzzTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/FizzBuzz/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/FizzBuzz/src/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/NextDay/NextDay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/NextDay/NextDay.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/Triangle/Triangle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/Triangle/Triangle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/out/production/FizzBuzz/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/out/production/FizzBuzz/FizzBuzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/out/test/FizzBuzz/FizzBuzzTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/09-AutomatedTesting-TDD/Practice-Exercise-01/out/test/FizzBuzz/FizzBuzzTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/11-Stack-Queue/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/11-Stack-Queue/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/17-BinaryFile-Serialization/CopyFile/src/Hello-copy.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/17-BinaryFile-Serialization/ProductManagement/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/17-BinaryFile-Serialization/ProductManagement/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/17-BinaryFile-Serialization/ProductManagement/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/17-BinaryFile-Serialization/ProductManagement/src/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/CrawlSong/src/CrawlSongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/CrawlSong/src/CrawlSongExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/Newspaper/src/NewspaperList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/Newspaper/src/NewspaperList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidateAccount/src/AccountExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidateAccount/src/AccountExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidateAccount/src/AccountExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidateAccount/src/AccountExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidateClassName/src/ClassnameExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidateClassName/src/ClassnameExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidateClassName/src/ClassnameExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidateClassName/src/ClassnameExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidatePhoneNumber/src/PhoneNumberExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidatePhoneNumber/src/PhoneNumberExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidatePhoneNumber/src/PhoneNumberExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/19-String-Regex/ValidatePhoneNumber/src/PhoneNumberExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/AdapterPractice/AdapterPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/AdapterPractice/AdapterPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/FacadePatternExercise/FacadePatternExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/FacadePatternExercise/FacadePatternExercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/FacadePractice/FacadePractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/FacadePractice/FacadePractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/ProxyPatternExercise/ProxyPatternExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/ProxyPatternExercise/ProxyPatternExercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/ProxyPractice/ProxyPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/ProxyPractice/ProxyPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/java-adapter-collection" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-02-Java/21-Structural-Design-Pattern/java-adapter-collection" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02/Java-Overview/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-03-SQL-CSS/web/Lesson-14-JAR/Calculator-01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module-03-SQL-CSS/web/Lesson-14-JAR/Calculator-01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-03-SQL-CSS/web/clone/.idea/clone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson-02-Spring-Controller/calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson-02-Spring-Controller/calculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Array-02/BT1/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Array-02/BT1/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Array-02/BT1/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Array-02/BT1/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Array-02/BT2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Bài-tập-html/Bài-tập-html.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Bài-tập-html/CV.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Bài-tập-html/Nháp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Bài-tập-html/Nháp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Bài-tập-html/Tạo danh sach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Form-Table" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Function-01/TH1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Kanban.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-08-31 at 09.10.35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-09-02 at 16.32.08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-09-03 at 17.22.03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-09-05 at 08.57.16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-09-05 at 16.15.49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-09-06 at 09.35.53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Thuyết trình nhóm 4.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/avatar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/course-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/course-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/course-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/course-4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/JS-Overview/TH1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Note/Form-Table.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Note/Git-Html.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Note/~$rm-Table.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/git/Git-demo-2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/git/GitProject/GitProject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/git/git-demo" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2a7MGrji6SBLwAOeqlHoA4tCRsd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "thao",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.83" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.83" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Gradle : com : codegym-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ef310021-82ae-434e-8b05-2c87f145f9ea" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53557" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com : codegym-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f154440-d7cf-43dc-b6ba-26aecfa5ab5a" name="Changes" comment="" />
+      <created>1703665074987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703665074987</updated>
+      <workItem from="1703665076768" duration="7107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

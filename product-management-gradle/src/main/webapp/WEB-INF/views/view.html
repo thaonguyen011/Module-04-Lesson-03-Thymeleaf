@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Product view</title>
+</head>
+<body>
+<h3>Product view</h3>
+<a th:href="@{/products}">Back to product list</a>
+<br>
+
+<fieldset>
+    <legend>Product</legend>
+    <table id="products" th:object="${product}">
+        <tr>
+            <th>Name</th>
+            <td th:text="*{name}"></td>
+        </tr>
+        <tr>
+            <th>Category</th>
+            <td th:text="*{category}"></td>
+        </tr>
+        <tr>
+            <th>Price</th>
+            <td th:text="*{price}"></td>
+        </tr>
+    </table>
+</fieldset>
+
+</body>
+</html>
